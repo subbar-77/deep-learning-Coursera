@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subbar-77
 - 👀 I’m interested in Business analytics and data exploration
-- 🌱 I’m currently learning the process of conducting an academic research
+- 🌱 Currently in the process of pulishing my own academic research
 - 💞️ I’m looking to collaborate on data mining and behavioral analytics
 - 📫 How to reach me: subbar77@gmail.com
 
